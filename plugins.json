@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "generator": "topic:nethe-plugin",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "count": 1,
   "plugins": [
     {
