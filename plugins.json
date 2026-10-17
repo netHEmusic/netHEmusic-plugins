@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "generator": "topic:nethe-plugin",
-  "updated": "2026-10-16",
-  "count": 1,
+  "updated": "2026-10-17",
+  "count": 2,
   "plugins": [
     {
       "id": "example-hello",
@@ -21,6 +21,24 @@
       "repo": "https://github.com/netHEmusic/netHEmusic-plugin-example-hello",
       "stars": 0,
       "updated": "2026-09-24T15:19:42Z"
+    },
+    {
+      "id": "photowall-playlist",
+      "name": "歌单照片墙",
+      "version": "0.1.0",
+      "author": "Laohehehe",
+      "description": "把歌单 / 歌曲列表变成一面可拖拽、可缩放的 3D 照片墙：悬浮看封面、滚轮缩放、拖拽平移，点开即播放。（照片墙引擎移植自 folia-major）",
+      "homepage": "https://github.com/Laohehehe/netHEmusic",
+      "permissions": [
+        "ui",
+        "events",
+        "settings",
+        "filesystem"
+      ],
+      "download": "https://github.com/netHEmusic/nethe-plugin-photowall/releases/download/v0.1.0/photowall-playlist-0.1.0.zip",
+      "repo": "https://github.com/netHEmusic/nethe-plugin-photowall",
+      "stars": 0,
+      "updated": "2026-10-17T00:45:46Z"
     }
   ]
 }
